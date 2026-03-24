@@ -10,5 +10,4 @@ class MinimumSumSubarray{
         }
         return ans;
     }
-
 }
